@@ -54,4 +54,5 @@ require (
 replace (
 	github.com/sirupsen/logrus => github.com/sirupsen/logrus v1.2.0
 	go.etcd.io/bbolt => go.etcd.io/bbolt v1.3.5
+        github.com/pingcap-incubator/tidb-dashboard => github.com/dveeden/tidb-dashboard v0.0.0-20210205174930-917321e91c42
 )
